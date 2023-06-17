@@ -1,0 +1,124 @@
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName281 LastName281
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName289 LastName289
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName297 LastName297
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName302 LastName302
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName305 LastName305
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName307 LastName307
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName313 LastName313
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName318 LastName318
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName326 LastName326
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint4
+Vehicle: Truck0
+Declared weight: 20000
+Truck Weight: 12690
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName276 LastName276
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName277 LastName277
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint4
+Vehicle: Truck2
+Declared weight: 3500
+Truck Weight: 3576
+
+Customs Documentation:
+Issuer: CustomsCheckpoint4
+Vehicle: Truck3
+Declared weight: 7500
+Truck Weight: 8480
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName368 LastName368
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName177 LastName177
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName378 LastName378
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName381 LastName381
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName221 LastName221
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName135 LastName135
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName157 LastName157
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint4
+Vehicle: Truck1
+Declared weight: 40000
+Truck Weight: 9160
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName118 LastName118
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName129 LastName129
+Illegal Item: IllegalItem
+

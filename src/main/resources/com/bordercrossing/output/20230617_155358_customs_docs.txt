@@ -1,0 +1,148 @@
+Customs Documentation:
+Issuer: CustomsCheckpoint4
+Vehicle: Truck2
+Declared weight: 40000
+Truck Weight: 31406
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName149 LastName149
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint4
+Vehicle: Truck0
+Declared weight: 40000
+Truck Weight: 13885
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName298 LastName298
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName216 LastName216
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName308 LastName308
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName312 LastName312
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName318 LastName318
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName322 LastName322
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName261 LastName261
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName276 LastName276
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName234 LastName234
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName243 LastName243
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName254 LastName254
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint4
+Vehicle: Truck4
+Declared weight: 40000
+Truck Weight: 15437
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName102 LastName102
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName108 LastName108
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName111 LastName111
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName124 LastName124
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName130 LastName130
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName228 LastName228
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName172 LastName172
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName178 LastName178
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName181 LastName181
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName183 LastName183
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName186 LastName186
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName192 LastName192
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName202 LastName202
+Illegal Item: IllegalItem
+
+Customs Documentation:
+Issuer: CustomsCheckpoint3
+Passenger: FirstName204 LastName204
+Illegal Item: IllegalItem
+
