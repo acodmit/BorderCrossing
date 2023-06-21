@@ -11,7 +11,7 @@
       <Insets bottom="60.0" left="60.0" right="60.0" top="60.0" />
    </padding>
    <children>
-      <Label style="-fx-font-size: 14; -fx-font-weight: bold;" text="Current list of suspensions:">
+      <Label style="-fx-font-size: 14; -fx-font-weight: bold;" text="Suspended passengers:">
          <padding>
             <Insets bottom="20.0" />
          </padding>

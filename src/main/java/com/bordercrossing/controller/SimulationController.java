@@ -9,6 +9,9 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
+import javafx.geometry.HPos;
+import javafx.geometry.Pos;
+import javafx.geometry.VPos;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
@@ -101,14 +104,25 @@ public class SimulationController implements Initializable {
 
         for (int row = 0; row < NUM_ROWS; row++) {
             for (int col = 0; col < NUM_COLS; col++) {
+
                 Rectangle rectangle = new Rectangle();
                 rectangle.setWidth(37.0);
                 rectangle.setHeight(37.0);
 
+                Label label = new Label();
+
                 if ((row == 2 || row == 4 || row == 6) && col == 13) {
                     rectangle.setFill(Color.BLUE); // police checkpoint
+
+                    // Set label text
+                    label.setText("PC" + (row / 2));
+
                 } else if ((row == 4 || row == 6) && col == 16) {
                     rectangle.setFill(Color.GREEN); // customs checkpoints
+
+                    // Set label text
+                    label.setText("CC" + ((row - 2)  / 2));
+
                 } else if ((row >= 2 && row <= 6) && col == 10) {
                     rectangle.setFill(Color.GRAY);
                 } else if ((row == 2 && col >= 10 && col <= 15) || (row == 6 && col >= 10 )) {
@@ -119,7 +133,18 @@ public class SimulationController implements Initializable {
                     rectangle.setFill(row == 4 ? Color.GRAY : Color.LIGHTGRAY);
                 }
 
+                // Add Rectangle to the GridPane
                 gridPane.add(rectangle, col, row);
+
+                // Set the alignment of the stack pane to center in the grid cell
+                GridPane.setHalignment(label, HPos.CENTER);
+                GridPane.setValignment(label, VPos.CENTER);
+
+                // Set label text color
+                //label.setStyle("-fx-text-fill: white;");
+
+                // Add Label to the GridPane
+                gridPane.add(label, col, row);
             }
         }
         gridPane.setGridLinesVisible(true);

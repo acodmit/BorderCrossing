@@ -7,6 +7,8 @@ import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
+import javafx.geometry.HPos;
+import javafx.geometry.VPos;
 import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
@@ -55,6 +57,7 @@ public class RemainingController implements Initializable {
         for (int row = 0; row < NUM_ROWS; row++) {
             for (int col = 0; col < NUM_COLS; col++) {
                 Rectangle rectangle = new Rectangle(RECT_SIZE, RECT_SIZE);
+                Label label = new Label();
 
                 // Set the fill color based on the row and column positions
                 if (row % 2 == 0) {
@@ -67,7 +70,15 @@ public class RemainingController implements Initializable {
                     }
                 }
 
+                // Add Rectangle to the GridPane
                 gridPane.add(rectangle, col, row);
+
+                // Set the alignment of the stack pane to center in the grid cell
+                GridPane.setHalignment(label, HPos.CENTER);
+                GridPane.setValignment(label, VPos.CENTER);
+
+                // Add Label to the GridPane
+                gridPane.add(label, col, row);
             }
         }
 

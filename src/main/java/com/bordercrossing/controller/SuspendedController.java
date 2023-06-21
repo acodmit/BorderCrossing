@@ -7,18 +7,15 @@ import javafx.fxml.Initializable;
 import javafx.scene.control.ListView;
 
 import java.net.URL;
-import java.util.List;
-import java.util.ArrayList;
-import java.util.ResourceBundle;
+import java.util.*;
 
 public class SuspendedController implements Initializable {
     @FXML
     private ListView<String> suspendedListView;
-
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
 
-        List<String> suspendedEntries = new ArrayList<>();
+        Set<String> suspendedEntries = new HashSet<>();
 
         List<Suspension> suspensions = SuspensionManager.getSuspensions();
 
